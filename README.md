@@ -20,3 +20,9 @@
 * Comandos `show databases`, `show tables`, `desc [table]`
 * SQL: Data Definition Language
 * SQL: Data Manipulation Language
+
+## Sesión 06
+
+* NPM
+* Express
+* Mongoose

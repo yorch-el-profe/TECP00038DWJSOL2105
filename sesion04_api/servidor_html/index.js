@@ -1,6 +1,5 @@
 const http = require("http");
 const fs = require("fs");
-const { arrayBuffer } = require("stream/consumers");
 
 /*
   Operaciones bloqueantes son: lectura de archivos,
