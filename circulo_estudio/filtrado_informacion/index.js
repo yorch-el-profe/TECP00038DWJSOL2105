@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-const uri =
-  "mongodb+srv://root:root@bedumongodb.iejwi.mongodb.net/productos?retryWrites=true&w=majority";
+const uri = "...";
 
 mongoose.connect(uri);
 
